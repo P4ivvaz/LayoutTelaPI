@@ -36,8 +36,7 @@ namespace LayoutTelaPI
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MenuInicialScreen telaInicio = new MenuInicialScreen();
-            telaInicio.Show();//
+           //
         }
 }
 }
